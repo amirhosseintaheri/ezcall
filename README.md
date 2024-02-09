@@ -1,6 +1,5 @@
 ## Test Video
-
-https://carocard.ir/test.MOV
+https://carocard.ir/test.mp4
 
 # EZCall - Open Source Android Video Call with WebRTC
 ![EZCall Logo](link_to_logo.png)
