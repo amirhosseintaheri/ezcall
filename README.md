@@ -20,7 +20,7 @@ EZCall is an open-source Android application that enables seamless video calling
 Follow these steps to get EZCall up and running on your Android device:
 
 1. **Clone the Repository:**
-git clone https://github.com/hamidrezabashiri/EZCall.git
+git clone https://github.com/amirhosseintaheri/ezcall
 
 2. **Build and Run:**
 - Open the project in Android Studio.
