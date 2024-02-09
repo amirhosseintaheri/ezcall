@@ -1,5 +1,5 @@
 ## Test Video
-httpd://csrocard.ir/test.MOV
+https://csrocard.ir/test.MOV
 
 # EZCall - Open Source Android Video Call with WebRTC
 ![EZCall Logo](link_to_logo.png)
